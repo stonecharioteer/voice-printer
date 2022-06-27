@@ -73,7 +73,7 @@ python-dateutil==2.7.2
 python-debian==0.1.27
 pytz==2018.4
 rainbowhat==0.0.2
-reportlab==3.4.0
+reportlab==3.5.55
 requests==2.14.2
 requests-oauthlib==0.8.0
 RPi.GPIO==0.6.3
